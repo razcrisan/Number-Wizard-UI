@@ -12,6 +12,7 @@ public class NumberWizards : MonoBehaviour {
 	StartGame();
 	}
 
+
 	void StartGame ()
 	{
 	max = 1000;
