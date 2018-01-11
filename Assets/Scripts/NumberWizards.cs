@@ -8,6 +8,8 @@ public class NumberWizards : MonoBehaviour {
 	int min;
 	int guess;
 
+
+
 	void Start () {
 	StartGame();
 	}
