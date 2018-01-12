@@ -7,6 +7,8 @@ public class NumberWizards : MonoBehaviour {
 	int max;
 	int min;
 	int guess;
+	int find;
+	int guess2;
 
 
 
